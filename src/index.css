@@ -26,13 +26,18 @@ h1 {
   width: 100%;
   height: 100vh;
   position: relative;
+  background: url('./assets/Picsart_25-08-17_17-37-29-151.jpg')  no-repeat cover;
+  background-size: cover;
+  position: fixed;
   background-color: rgba(0,0,0,0.4);
-  color: #fff;
+  color: #181818e2;
+  
 }
 
 .app:before {
   content: '';
-  background: url('./assets/sunset.jpg') no-repeat center center/cover;
+  background: url('./assets/Picsart_25-08-17_17-37-29-151.jpg')  no-repeat center center fixed;
+  background-size: cover;
   position: absolute;
   width: 100%;
   height: 100%;
@@ -52,7 +57,7 @@ h1 {
   border-radius: 25px;
   border: 1px solid rgba(255,255,255, 0.8);
   background: rgba(255,255,255, 0.1);
-  color: #f8f8f8;
+  color: #181818e2;
 }
 
 ::placeholder {
