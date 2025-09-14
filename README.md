@@ -1,16 +1,5 @@
-WEATHER DASHBOARD
-COMPANY: CODTECH IT SOLUTIONS
-NANE: Bala Darshan.M
-INTERN ID: CT04DY794
-DOMAIN: React.js Web Development
-DURATION: 4 HEEEKS
-MENTOR: NEELA SANTOSH
+<img width="1916" height="966" alt="image" src="https://github.com/user-attachments/assets/202a3925-c775-4db7-9716-420b76378b13" />
 
-
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
